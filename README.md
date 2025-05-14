@@ -31,6 +31,7 @@ To run this app locally on your system, follow these steps:
 
 #### Windows
 ```bash
+git clone https://github.com/AkshataSingh/Early-Eye-disease-detection
 git clone https://github.com/link
 cd Early-warinng-Cataract-detection
 python -m venv venv
@@ -39,6 +40,7 @@ venv\Scripts\activate
 
 #### macOS/Linux
 ```bash
+git clone https://github.com/AkshataSingh/Early-Eye-disease-detection
 git clone https://github.com/link
 cd Early-warinng-Cataract-detection
 python3 -m venv venv
